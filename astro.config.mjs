@@ -9,5 +9,7 @@ export default defineConfig({
   devToolbar: {
     enabled: false
   },
+  site: 'https://yawvie.github.io',
+  base: '/yawvie.github.io',
   integrations: [react(), tailwind(), sitemap()]
 });
