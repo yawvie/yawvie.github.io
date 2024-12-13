@@ -10,6 +10,6 @@ export default defineConfig({
     enabled: false
   },
   site: 'https://yawvie.github.io',
-  base: 'yawvie.github.io',
+  base: '',
   integrations: [react(), tailwind(), sitemap()]
 });

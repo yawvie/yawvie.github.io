@@ -19,7 +19,7 @@
 //both (3?christmas poster, easter) mill bay, cedar, cvrd
 export const portafolioData = [
 	{
-		imgSrc: '/yawvie.github.io/img/project_previews_CEDAR.png',
+		imgSrc: '/img/project_previews_CEDAR.png',
 		title: 'Visual Identity',
 		skills: [],
 		descripcion:
@@ -29,7 +29,7 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/yawvie.github.io/img/project_previews_Mill_Bay_Centre_Branded.png',
+		imgSrc: '/img/project_previews_Mill_Bay_Centre_Branded.png',
 		title: 'Signage & Promotions',
 		skills: [],
 		descripcion:
@@ -39,7 +39,7 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/yawvie.github.io/img/project_previews_Mill_Bay_Centre_Egg_Hunt.png',
+		imgSrc: '/img/project_previews_Mill_Bay_Centre_Egg_Hunt.png',
 		title: 'Event Posters',
 		skills: [],
 		descripcion:
@@ -49,7 +49,7 @@ export const portafolioData = [
 		anim: 'fade-up',
 	},
 	{
-		imgSrc: '/yawvie.github.io/img/project_previews_OFC.png',
+		imgSrc: '/img/project_previews_OFC.png',
 		title: 'Visual Identity, Events & Emojis',
 		skills: [],
 		descripcion:
@@ -59,7 +59,7 @@ export const portafolioData = [
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: '/yawvie.github.io/img/project_previews_PATHWAYS_Logo.png',
+		imgSrc: '/img/project_previews_PATHWAYS_Logo.png',
 		title: 'Visual Identity',
 		skills: [],
 		descripcion:
@@ -69,7 +69,7 @@ export const portafolioData = [
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: '/yawvie.github.io/img/project_previews_CVRD.png',
+		imgSrc: '/img/project_previews_CVRD.png',
 		title: 'Document Template & Icons',
 		skills: [],
 		descripcion:
@@ -79,7 +79,7 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/yawvie.github.io/img/project_previews_South_Cowichan_Life_Mockup.png',
+		imgSrc: '/img/project_previews_South_Cowichan_Life_Mockup.png',
 		title: 'Publication/ Document Design',
 		skills: [],
 		descripcion:
@@ -89,7 +89,7 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/yawvie.github.io/img/project_previews_Medford_Singers copy.png',
+		imgSrc: '/img/project_previews_Medford_Singers copy.png',
 		title: 'Event Promotional Materials',
 		skills: [],
 		descripcion:
