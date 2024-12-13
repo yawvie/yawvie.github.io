@@ -1,0 +1,36 @@
+---
+import SocialIcons from '../SocialIcons.astro';
+import Title from '../atoms/Title.astro';
+import "./about.css"
+
+
+---
+
+<section id="about" class="about">
+	<div class="about__container">
+		<img
+			class="about__img"
+			src="/img/about_storm.jpg"
+			alt="Photo of Storm"
+		/>
+
+		<div class="about__content">
+			<Title margin="1rem" contenido="About me" />
+			<p class="about__text">
+				I make strategic visual solutions for businesses, events and individuals.
+			</p>
+			<p class="about__text">
+				I specialize in creating cohesive visual identities. I am able to create graphics in many different styles. 
+				This means I am also able to work within any existing styles and parameters for smaller projects or if a full rebrand is not needed.
+			</p>
+			<p class="about__text">
+				Accessibility, problem solving and designing for the end users are the most important parts of design.
+			</p>
+			<p class="about__text">
+				I have 10 years of experience as a graphic designer and a bachelor of design.
+			</p>
+			<SocialIcons width="35" height="35"/>
+		</div>
+	</div>
+
+</section>
